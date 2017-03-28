@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>..\led_control\MDK_ARM\led_control.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\printer_tag_device\printer_mcu\MDK_ARM\printer_mcu.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\printer_tag_device\scanner_mcu\MDK_ARM\scanner_mcu.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>..\temperature_gsm_alarm\MDK_ARM\temperature_gsm_alarm.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+</ProjectWorkspace>
